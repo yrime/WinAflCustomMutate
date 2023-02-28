@@ -1,0 +1,3878 @@
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 677e2217c948d70:1000
+pipe name: \\.\pipe\afl_pipe_677e2217c948d70
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 33cd2eebb7f964bf:1000
+pipe name: \\.\pipe\afl_pipe_33cd2eebb7f964bf
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: ae3b7de0e19b3502:1000
+pipe name: \\.\pipe\afl_pipe_ae3b7de0e19b3502
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 28dab6ccd6b18139:1000
+pipe name: \\.\pipe\afl_pipe_28dab6ccd6b18139
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 1463d6876c53aaf5:1000
+pipe name: \\.\pipe\afl_pipe_1463d6876c53aaf5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: a5ca64846dc7ca38:1000
+pipe name: \\.\pipe\afl_pipe_a5ca64846dc7ca38
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5ecaa184d65ef409:1000
+pipe name: \\.\pipe\afl_pipe_5ecaa184d65ef409
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+afl enironment variable: 31f4e9046cefc29a:1000
+pipe name: \\.\pipe\afl_pipe_31f4e9046cefc29a
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+afl enironment variable: 4fe4f328c0f27fd5:1000
+pipe name: \\.\pipe\afl_pipe_4fe4f328c0f27fd5
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+afl enironment variable: 1256ed16635c440c:1000
+pipe name: \\.\pipe\afl_pipe_1256ed16635c440c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 5be4d70f629d7891:1000
+pipe name: \\.\pipe\afl_pipe_5be4d70f629d7891
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 32771279f0369cf6:1000
+pipe name: \\.\pipe\afl_pipe_32771279f0369cf6
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 74e7f65f1989864:1000
+pipe name: \\.\pipe\afl_pipe_74e7f65f1989864
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 74e7f65f1989864:1000
+pipe name: \\.\pipe\afl_pipe_74e7f65f1989864
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 74e7f65f1989864:1000
+pipe name: \\.\pipe\afl_pipe_74e7f65f1989864
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 74e7f65f1989864:1000
+pipe name: \\.\pipe\afl_pipe_74e7f65f1989864
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+  4294967295
+afl enironment variable: 39c27dceebee7c34:1000
+pipe name: \\.\pipe\afl_pipe_39c27dceebee7c34
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 39c27dceebee7c34:1000
+pipe name: \\.\pipe\afl_pipe_39c27dceebee7c34
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 39c27dceebee7c34:1000
+pipe name: \\.\pipe\afl_pipe_39c27dceebee7c34
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 39c27dceebee7c34:1000
+pipe name: \\.\pipe\afl_pipe_39c27dceebee7c34
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 39c27dceebee7c34:1000
+pipe name: \\.\pipe\afl_pipe_39c27dceebee7c34
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 39c27dceebee7c34:1000
+pipe name: \\.\pipe\afl_pipe_39c27dceebee7c34
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+afl enironment variable: dd5f55b8bd5a4668:1000
+pipe name: \\.\pipe\afl_pipe_dd5f55b8bd5a4668
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: dd5f55b8bd5a4668:1000
+pipe name: \\.\pipe\afl_pipe_dd5f55b8bd5a4668
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: dd5f55b8bd5a4668:1000
+pipe name: \\.\pipe\afl_pipe_dd5f55b8bd5a4668
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: dd5f55b8bd5a4668:1000
+pipe name: \\.\pipe\afl_pipe_dd5f55b8bd5a4668
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: dd5f55b8bd5a4668:1000
+pipe name: \\.\pipe\afl_pipe_dd5f55b8bd5a4668
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: dd5f55b8bd5a4668:1000
+pipe name: \\.\pipe\afl_pipe_dd5f55b8bd5a4668
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 6a8aad50b86ea75c:1000
+pipe name: \\.\pipe\afl_pipe_6a8aad50b86ea75c
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+afl enironment variable: 12b56d37b111cf14:1000
+pipe name: \\.\pipe\afl_pipe_12b56d37b111cf14
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 0
+wait 0
+F 0
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 12b56d37b111cf14:1000
+pipe name: \\.\pipe\afl_pipe_12b56d37b111cf14
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+afl enironment variable: 12b56d37b111cf14:1000
+pipe name: \\.\pipe\afl_pipe_12b56d37b111cf14
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295
+F 4294967295
+DumpWinAfl: testAfl.exe OUT\.cur_input --- 
+prgramm: testAfl.exe OUT\.cur_input --- is started 
+The exit code for testAfl.exe OUT\.cur_input 4294967295
+wait 4294967295

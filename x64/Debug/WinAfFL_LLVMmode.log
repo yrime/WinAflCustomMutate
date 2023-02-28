@@ -1,0 +1,187 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: два или более файлов с именем ipttool.c выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — ipttool.c, third_party\winipt\ipttool\ipttool.c.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: два или более файлов с именем pt_cpuid.c выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — third_party\processor-trace\libipt\src\posix\pt_cpuid.c, third_party\processor-trace\libipt\src\windows\pt_cpuid.c.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: два или более файлов с именем util.c выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — third_party\processor-trace\pttc\src\posix\util.c, third_party\processor-trace\pttc\src\util.c, third_party\processor-trace\pttc\src\windows\util.c.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: два или более файлов с именем ptunit_mkfile.c выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — third_party\processor-trace\ptunit\src\posix\ptunit_mkfile.c, third_party\processor-trace\ptunit\src\windows\ptunit_mkfile.c.
+  afl-analyze.c
+  afl-fuzz.c
+  afl-showmap.c
+  afl-staticinstr.c
+c:\uefiafl\winafl\afl-staticinstr.h(35): fatal error C1189: #error:  Static instrumentation is only available for 32 bit binaries
+  afl-tmin.c
+  post_library.c
+  CMakeCCompilerId.c
+  feature_tests.c
+  custom_net_fuzzer.c
+  custom_winafl_server.c
+  ipttool.c
+c:\uefiafl\winafl\ipttool.c(28): fatal error C1083: Не удается открыть файл включение: libipt.h: No such file or directory,
+  modules.c
+c:\uefiafl\winafl\modules.h(41): fatal error C1083: Не удается открыть файл включение: dr_api.h: No such file or directory,
+  ptdecode.c
+c:\uefiafl\winafl\ptdecode.c(26): fatal error C1083: Не удается открыть файл включение: intel-pt.h: No such file or directory,
+  pt_cpuid.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\posix\pt_cpuid.c(29): fatal error C1083: Не удается открыть файл включение: pt_cpuid.h: No such file or directory,
+  pt_section_posix.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\posix\pt_section_posix.c(29): fatal error C1083: Не удается открыть файл включение: pt_section.h: No such file or directory,
+  pt_asid.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_asid.c(29): fatal error C1083: Не удается открыть файл включение: pt_asid.h: No such file or directory,
+  pt_block_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_block_cache.c(29): fatal error C1083: Не удается открыть файл включение: pt_block_cache.h: No such file or directory,
+  pt_block_decoder.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_block_decoder.c(29): fatal error C1083: Не удается открыть файл включение: pt_block_decoder.h: No such file or directory,
+  pt_config.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_config.c(29): fatal error C1083: Не удается открыть файл включение: pt_config.h: No such file or directory,
+  pt_cpu.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_cpu.c(29): fatal error C1083: Не удается открыть файл включение: pt_cpu.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  pt_decoder_function.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_decoder_function.c(29): fatal error C1083: Не удается открыть файл включение: pt_decoder_function.h: No such file or directory,
+  pt_encoder.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_encoder.c(29): fatal error C1083: Не удается открыть файл включение: pt_encoder.h: No such file or directory,
+  pt_error.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_error.c(29): fatal error C1083: Не удается открыть файл включение: intel-pt.h: No such file or directory,
+  pt_event_queue.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_event_queue.c(29): fatal error C1083: Не удается открыть файл включение: pt_event_queue.h: No such file or directory,
+  pt_ild.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_ild.c(29): fatal error C1083: Не удается открыть файл включение: pt_ild.h: No such file or directory,
+  pt_image.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_image.c(29): fatal error C1083: Не удается открыть файл включение: pt_image.h: No such file or directory,
+  pt_image_section_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_image_section_cache.c(29): fatal error C1083: Не удается открыть файл включение: pt_image_section_cache.h: No such file or directory,
+  pt_insn.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_insn.c(29): fatal error C1083: Не удается открыть файл включение: pt_insn.h: No such file or directory,
+  pt_insn_decoder.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_insn_decoder.c(29): fatal error C1083: Не удается открыть файл включение: pt_insn_decoder.h: No such file or directory,
+  pt_last_ip.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_last_ip.c(29): fatal error C1083: Не удается открыть файл включение: pt_last_ip.h: No such file or directory,
+  pt_msec_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_msec_cache.c(29): fatal error C1083: Не удается открыть файл включение: pt_msec_cache.h: No such file or directory,
+  pt_packet.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_packet.c(29): fatal error C1083: Не удается открыть файл включение: pt_packet.h: No such file or directory,
+  pt_packet_decoder.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_packet_decoder.c(29): fatal error C1083: Не удается открыть файл включение: pt_packet_decoder.h: No such file or directory,
+  pt_query_decoder.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_query_decoder.c(29): fatal error C1083: Не удается открыть файл включение: pt_query_decoder.h: No such file or directory,
+  pt_retstack.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_retstack.c(29): fatal error C1083: Не удается открыть файл включение: pt_retstack.h: No such file or directory,
+  pt_section.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_section.c(29): fatal error C1083: Не удается открыть файл включение: pt_section.h: No such file or directory,
+  pt_section_file.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_section_file.c(29): fatal error C1083: Не удается открыть файл включение: pt_section.h: No such file or directory,
+  pt_sync.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_sync.c(29): fatal error C1083: Не удается открыть файл включение: pt_sync.h: No such file or directory,
+  pt_time.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_time.c(29): fatal error C1083: Не удается открыть файл включение: pt_time.h: No such file or directory,
+  pt_tnt_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_tnt_cache.c(29): fatal error C1083: Не удается открыть файл включение: pt_tnt_cache.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  pt_version.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\pt_version.c(29): fatal error C1083: Не удается открыть файл включение: intel-pt.h: No such file or directory,
+  pt_cpuid.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\windows\pt_cpuid.c(29): fatal error C1083: Не удается открыть файл включение: pt_cpuid.h: No such file or directory,
+  pt_section_windows.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\src\windows\pt_section_windows.c(29): fatal error C1083: Не удается открыть файл включение: pt_section.h: No such file or directory,
+  ptunit-asid.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-asid.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-block_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-block_cache.c(29): fatal error C1083: Не удается открыть файл включение: ptunit_threads.h: No such file or directory,
+  ptunit-config.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-config.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-cpu.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-cpu.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-event_queue.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-event_queue.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-fetch.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-fetch.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-ild.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-ild.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-image.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-image.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-image_section_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-image_section_cache.c(29): fatal error C1083: Не удается открыть файл включение: pt_image_section_cache.h: No such file or directory,
+  ptunit-last_ip.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-last_ip.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-mapped_section.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-mapped_section.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-msec_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-msec_cache.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-packet.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-packet.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-query.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-query.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-retstack.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-retstack.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-section-file.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-section-file.c(29): fatal error C1083: Не удается открыть файл включение: pt_section.h: No such file or directory,
+  ptunit-section.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-section.c(29): fatal error C1083: Не удается открыть файл включение: ptunit_threads.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  ptunit-sync.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-sync.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit-time.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-time.c(29): fatal error C1083: Не удается открыть файл включение: pt_time.h: No such file or directory,
+  ptunit-tnt_cache.c
+c:\uefiafl\winafl\third_party\processor-trace\libipt\test\src\ptunit-tnt_cache.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  pevent.c
+c:\uefiafl\winafl\third_party\processor-trace\pevent\src\pevent.c(29): fatal error C1083: Не удается открыть файл включение: pevent.h: No such file or directory,
+  ptunit-pevent.c
+c:\uefiafl\winafl\third_party\processor-trace\pevent\test\src\ptunit-pevent.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptdump.c
+c:\uefiafl\winafl\third_party\processor-trace\ptdump\src\ptdump.c(29): fatal error C1083: Не удается открыть файл включение: pt_cpu.h: No such file or directory,
+  errcode.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\errcode.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  file.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\file.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  main.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\main.c(29): fatal error C1083: Не удается открыть файл включение: pttc.h: No such file or directory,
+  parse.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\parse.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  util.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\posix\util.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  pttc.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\pttc.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  util.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\util.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  util.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\windows\util.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  yasm.c
+c:\uefiafl\winafl\third_party\processor-trace\pttc\src\yasm.c(29): fatal error C1083: Не удается открыть файл включение: errcode.h: No such file or directory,
+  ptunit_mkfile.c
+c:\uefiafl\winafl\third_party\processor-trace\ptunit\src\posix\ptunit_mkfile.c(29): fatal error C1083: Не удается открыть файл включение: ptunit_mkfile.h: No such file or directory,
+  ptunit.c
+c:\uefiafl\winafl\third_party\processor-trace\ptunit\src\ptunit.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  ptunit_mkfile.c
+c:\uefiafl\winafl\third_party\processor-trace\ptunit\src\windows\ptunit_mkfile.c(29): fatal error C1083: Не удается открыть файл включение: ptunit_mkfile.h: No such file or directory,
+  ptunit-selftest.c
+c:\uefiafl\winafl\third_party\processor-trace\ptunit\test\src\ptunit-selftest.c(29): fatal error C1083: Не удается открыть файл включение: ptunit.h: No such file or directory,
+  load_elf.c
+c:\uefiafl\winafl\third_party\processor-trace\ptxed\src\load_elf.c(29): fatal error C1083: Не удается открыть файл включение: load_elf.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  ptxed.c
+c:\uefiafl\winafl\third_party\processor-trace\ptxed\src\ptxed.c(33): fatal error C1083: Не удается открыть файл включение: pt_cpu.h: No such file or directory,
+  pt_sb_context.c
+c:\uefiafl\winafl\third_party\processor-trace\sideband\src\pt_sb_context.c(29): fatal error C1083: Не удается открыть файл включение: pt_sb_context.h: No such file or directory,
+  pt_sb_file.c
+c:\uefiafl\winafl\third_party\processor-trace\sideband\src\pt_sb_file.c(29): fatal error C1083: Не удается открыть файл включение: pt_sb_file.h: No such file or directory,
+  pt_sb_pevent.c
+c:\uefiafl\winafl\third_party\processor-trace\sideband\src\pt_sb_pevent.c(29): fatal error C1083: Не удается открыть файл включение: libipt-sb.h: No such file or directory,
+  pt_sb_session.c
+c:\uefiafl\winafl\third_party\processor-trace\sideband\src\pt_sb_session.c(29): fatal error C1083: Не удается открыть файл включение: pt_sb_session.h: No such file or directory,
+  ipttool.c
+c:\uefiafl\winafl\third_party\winipt\ipttool\ipttool.c(3): fatal error C1083: Не удается открыть файл включение: libipt.h: No such file or directory,
+  native.c
+c:\uefiafl\winafl\third_party\winipt\libiptnt\native.c(5): fatal error C1083: Не удается открыть файл включение: libiptnt.h: No such file or directory,
+  win32.c
+c:\uefiafl\winafl\third_party\winipt\libipt\win32.c(2): fatal error C1083: Не удается открыть файл включение: libipt.h: No such file or directory,
+  winafl.c
+c:\uefiafl\winafl\winafl.c(27): fatal error C1083: Не удается открыть файл включение: dr_api.h: No such file or directory,
+  winaflpt-debug.c
+  winaflpt.c
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: typedef : пропускается слева от "<unnamed-enum-hdBase>", когда ни одна переменная не объявлена
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: typedef : пропускается слева от "<unnamed-enum-sfImage>", когда ни одна переменная не объявлена
+c:\uefiafl\winafl\winaflpt.c(29): fatal error C1083: Не удается открыть файл включение: libipt.h: No such file or directory,
+  Создание кода...
