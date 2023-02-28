@@ -1,5 +1,10 @@
 # WinAFL
 
+## un peau des mots
+это форк оригинального winafl. добавлена возможность запуска кастомных мутаторов, без иных мутаций (-L)
+### Пример
+afl-fuzz.exe -i IN -o OUT -t 5000+ -m none -Y -L llvm -n -l testAflDll.dll -- -- DumpWinAFL.exe "testAfl.exe @@"
+
 ```
    Original AFL code written by Michal Zalewski <lcamtuf@google.com>
 
