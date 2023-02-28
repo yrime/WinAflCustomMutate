@@ -5547,7 +5547,7 @@ static u8 could_be_interest(u32 old_val, u32 new_val, u8 blen, u8 check_le) {
 }
 
 static u8 fuzz_one_llvm(char** argv) {
-	printf("fuzz one llvm");
+	//printf("fuzz one llvm");
 	s32 len, fd, temp_len, i, j;
 	u8  *in_buf, *out_buf, *orig_in, *ex_tmp, *eff_map = 0;
 	u64 havoc_queued, orig_hit_cnt, new_hit_cnt;
